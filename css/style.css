@@ -1,0 +1,15 @@
+* {
+  font-family: "Comic Sans MS";	
+  color: white;
+  background-color: #5e5e5e;
+}
+
+.head {
+	text-align: center;
+	font-size: 48px;
+}
+
+.subhead {
+	text-align: center;
+	Font-size: 24px;
+}
